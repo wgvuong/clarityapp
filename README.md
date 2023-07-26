@@ -1,3 +1,3 @@
 # clarityfinal
 
-A new Flutter project.
+Clarity app developed for HackDavis 2023.
